@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"foot",
+				"footerMenu"
+			],
+			[
+				"event",
+				"eventHandlers"
+			],
+			[
+				"optons",
+				"options2"
+			],
+			[
+				"opt",
+				"options2"
+			],
+			[
+				"set",
+				"setCategory"
+			],
+			[
+				"ot",
+				"options"
+			],
+			[
+				"get",
+				"getCategory"
+			],
+			[
+				"o",
+				"options2"
+			],
+			[
+				"dropdown",
+				"DropdownValue"
+			],
+			[
+				"Item",
+				"ItemsLost"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"lo",
+				"loadJS"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"carouse",
+				"carousel_1"
+			],
+			[
+				"explore",
+				"Explore"
+			],
+			[
+				"Se",
+				"Search"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"mar",
+				"margin-top"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 201.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"tower",
+				"Tower: Open in Tower"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 484.0
+	},
+	"console":
+	{
+		"height": 145.0,
+		"history":
+		[
+			"view.run_command('tower_open')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/ilostit"
+	],
+	"file_history":
+	[
+		"/Users/jhn/Desktop/map/BNP Paribas Factoring - The European market leader.htm",
+		"/Users/jhn/Projects/Factor/src/Factor/ResourcePackages/Factor/assets/scss/pages/_complaint-form.scss",
+		"/etc/hosts",
+		"/Users/jhn/Projects/Factor/src/Factor/ResourcePackages/Factor/assets/scss/pages/_jobs.scss",
+		"/Users/jhn/Projects/Factor/src/Factor/Mvc/Views/Error/Default.cshtml",
+		"/Users/jhn/Projects/Factor/src/Factor/ResourcePackages/Factor/assets/scss/layout/_common.scss",
+		"/Users/jhn/Projects/Factor/src/Factor/ResourcePackages/Factor/assets/scss/pages/_content.scss",
+		"/Users/jhn/.gitconfig",
+		"/Users/jhn/Projects/Corporate/bnppf_sf_source/Website/MVC/Views/SupraBar/List.Mobile.cshtml",
+		"/Users/jhn/Projects/Corporate/bnppf_sf_source/Website/config.codekit",
+		"/Users/jhn/Projects/Corporate/bnppf_HR_Static/grunt.user.settings.json",
+		"/Users/jhn/Projects/Corporate/bnppf_HR_Static/grunt.user.settings.default.json",
+		"/Users/jhn/Projects/Corporate/bnppf_HR_Static/ResourcePackages/ProjectName/assets/dist/js/main.js",
+		"/Users/jhn/Projects/Corporate/bnppf_sf_source/Website/MVC/Views/Navigation/NavigationView.Footer.cshtml",
+		"/Users/jhn/Projects/Corporate/bnppf_sf_source/Website/grunt.user.settings.json",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/UploadImagesController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Upload.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/ImageLost.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/services/service.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/routes/web.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/routes/api.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/node_modules/simple-react-dropzone/node_modules/react-dropzone-component/dist/react-dropzone.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/ImageLostController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/ItemsLostController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/upload.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/node_modules/dropzone/dist/dropzone.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/public/.htaccess",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/config/filesystems.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/.env",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/composer.json",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/lost/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/forgotPassword/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/config/app.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/GetCategoryController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/UploadController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/store/actions/index.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/store/index.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/register/index.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/GetCategory.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/dashboard/index.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/ItemsLost.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/database/migrations/2018_05_23_092334_create_categories_table.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Kernel.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/ItemsFound.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/Auth/RegisterController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/database/migrations/2018_05_14_122936_create_itemslost_table.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/database/migrations/2018_05_14_122750_create_itemsfound_table.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/storage/logs/laravel.log",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/Auth/LoginController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/config/auth.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/resetPassword/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/services/index.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/home/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/login/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/register/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Providers/AuthServiceProvider.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/Controller.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/services/itemService.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/store/reducers/Auth.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/services/authService.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/ItemsFoundController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/User.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/Auth/ItemLostController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/Api/UserController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Providers/AppServiceProvider.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/found/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/app/Http/Controllers/ItemLostController.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/sass/datepicker/_datepicker.scss",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/css/semantic-ui.css",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/sass/app.scss",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/package.json",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/sass/datepicker/config.codekit3",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/app.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/elements/map/PlaceInfoWindow.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/elements/map/PlaceMarker.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/elements/map/ExploreMap.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/explore/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/elements/CardList.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/views/home.blade.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/explore/index.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/webpack.mix.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/elements/EploreMap.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/elements/map/GoogleMap.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/common/navigation/Page.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/elements/CardCarousel.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/elements/CustomCard.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/routes/routes.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/styles/dist/semantic.css",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/vendor/symfony/routing/Tests/RouteCollectionBuilderTest.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/vendor/laravel/socialite/src/Two/AbstractProvider.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/styles/tasks/build.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/styles/.gitignore",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/.gitignore",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/.babelrc",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/package-lock.json",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/styles/src/themes/default/elements/icon.overrides",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/styles/src/theme.config",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/styles/src/themes/ilostit/elements/button.variables",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/.babelrc.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/css/semantic-ui-default.css",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/public/css/app.css",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/pages/login/Page.bootstrap.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/resources/assets/js/common/navigation/Page.old.js",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/vendor/laravel/framework/src/Illuminate/Foundation/Console/Presets/React.php",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/node_modules/laravel-mix/setup/webpack.config.js",
+		"/Applications/MAMP/htdocs/ilostit/README.md",
+		"/Applications/MAMP/htdocs/react-laravel-with-jwt-auth/config/database.php",
+		"/Users/jhn/<RIGHT>",
+		"/Users/jhn/<LEFT>",
+		"/Users/jhn/Library/Application Support/Sublime Text 3/Packages/Sublimerge 3/Sublimerge 3.sublime-settings",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/EntryPages/assets/src/scss/pages/_entrypage.scss",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/Mvc/Views/IntroBlock/Default.cshtml",
+		"/Users/jhn/Projects/EntryPages/static-html/ResourcePackages/EntryPages/assets/scss/pages/_entrypage.scss",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/Bootstrap/assets/src/sitefinity/sass/tools/_mixins.scss",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/EntryPages/assets/src/scss/layout/_navigation.scss",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/Bootstrap/MVC/Views/SocialShare/SocialShare.cshtml",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/EntryPages/assets/src/scss/layout/_common.scss",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/EntryPages/assets/dist/css/main.css",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/Mvc/Views/DispatchPages/Default.cshtml",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/Mvc/Views/RelatedPages/Default.cshtml",
+		"/Users/jhn/Projects/EntryPages/static-html/ResourcePackages/EntryPages/assets/css/main.css",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/Bootstrap/assets/src/sitefinity/sass/widgets/socialShare/_sf-sprite.scss",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/Mvc/Models/RelatedPagesModel.cs",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/Mvc/Views/ExternalNote/DesignerView.Note.cshtml",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/Bootstrap/assets/dist/css/main.css",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/EntryPages/assets/dist/js/main.js",
+		"/Users/jhn/Projects/EntryPages/src/SitefinityWebApp/ResourcePackages/EntryPages/assets/dist/css/admin.css"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 154.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 98.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ilostit.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 859.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 396.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

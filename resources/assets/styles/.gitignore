@@ -1,0 +1,8 @@
+cat <<GITIGNORE >> .gitignore
+
+# Semantic custom files and dist.
+!styles/src/theme.config
+!styles/src/themes/beintoo/
+!styles/dist/semantic.min.css
+!styles/dist/themes/beintoo/
+GITIGNORE
